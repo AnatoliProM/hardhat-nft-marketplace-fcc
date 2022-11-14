@@ -1,5 +1,6 @@
 const { run } = require("hardhat")
 
+// hardhat-nft-marketplace-fcc verify
 const verify = async (contractAddress, args) => {
     console.log("Verifying contract...")
     try {
