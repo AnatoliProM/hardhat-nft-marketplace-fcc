@@ -2,6 +2,7 @@
 
 *This repo has been updated to work with Goerli over Rinkeby.*
 
+
 <br/>
 <p align="center">
 <img src="./img/hero.png" width="500" alt="Hardhat NextJS Marketplace">
