@@ -32,6 +32,7 @@ Huge Shoutout to [Matt Durkin](https://twitter.com/mdurkin92) for his help on th
 
 ## Requirements
 
+
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
 - [Nodejs](https://nodejs.org/en/)
